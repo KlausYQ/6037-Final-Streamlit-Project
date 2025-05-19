@@ -10,7 +10,7 @@ def contact_page():
     - **Email**: [klausyq@163.com](mailto:klausyq@163.com)
     - **Phone**: +86 17602190677
     - **LinkedIn**: [linkedin.com/in/klaus-wang](https://www.linkedin.com/in/klaus-wang)
-    - **GitHub**: [github.com/sarahjohnson](https://github.com/sarahjohnson)
+    - **GitHub**: [xxx](https://github.com/sarahjohnson)
     """)
     
     st.markdown("### Send Me a Message")
