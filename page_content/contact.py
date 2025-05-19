@@ -8,8 +8,8 @@ def contact_page():
     
     ### Direct Contact
     - **Email**: [klausyq@163.com](mailto:klausyq@163.com)
-    - **Phone**: +1 (123) 456-7890
-    - **LinkedIn**: [linkedin.com/in/sarahjohnson](https://linkedin.com/in/sarahjohnson)
+    - **Phone**: +86 17602190677
+    - **LinkedIn**: [linkedin.com/in/klaus-wang](https://www.linkedin.com/in/klaus-wang)
     - **GitHub**: [github.com/sarahjohnson](https://github.com/sarahjohnson)
     """)
     
